@@ -5,6 +5,7 @@ Curated links for the multimodal AI ecosystem.
 
 ## Tools
 - [I am unable to process your request without the specific text you would like me to summarize](https://github.com/Nutlope/open-deep-research) – 02 Jul 2025 - I am unable to process your request without the specific text you would like me to summarize.
+- [I'm unable to process your request as there is no supplied text for me to analyze](https://github.com/Nutlope/open-deep-research) – 02 Jul 2025 - I'm unable to process your request as there is no supplied text for me to analyze.
 <!-- ✨ New tool links appear right below this comment. -->
 
 ## Papers
