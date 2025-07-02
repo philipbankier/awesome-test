@@ -16,6 +16,7 @@ Curated links for the multimodal AI ecosystem.
 
 ## Announcements
 - [I am unable to generate a summary without the supplied text](https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/) – 02 Jul 2025 - I am unable to generate a summary without the supplied text.
+- [Gemini Robotics On-Device brings AI to local robotic devices - Google DeepMind](https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/) – 24 June 2025 - Gemini Robotics On-Device introduces a powerful, efficient AI model for robotic devices that operates locally, allowing for rapid task adaptation and general-purpose dexterity without relying on a network.
 - [Gemini Robotics On-Device brings AI to local robotic devices - Google DeepMind](https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/) – 02 Jul 2025 - Gemini Robotics On-Device introduces a powerful robotics model that operates locally on robotic devices, enabling efficient, low-latency task execution without needing a data connection.
 - [Gemini Robotics On-Device brings AI to local robotic devices - Google DeepMind](https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/) – 02 Jul 2025 - Gemini Robotics On-Device is an advanced AI model designed to enable robotic devices to perform complex tasks locally with high dexterity and minimal latency.
 <!-- 📢 New announcement links appear right below this comment. -->
