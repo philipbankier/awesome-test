@@ -12,6 +12,7 @@ Curated links for the multimodal AI ecosystem.
 
 ## Papers
 - [MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/pdf/2506.20670) – 02 Jul 2025 - 
+- [MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/pdf/2506.20670) – 25 Jun 2025 - MMSearch-R1 is a novel reinforcement learning framework that enhances large multimodal models (LMMs) by enabling efficient, on-demand searching of both images and text in real-world scenarios.
 - [MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/pdf/2506.20670) – 25 Jun 2025 - MMSearch-R1 is a new reinforcement learning framework that allows multimodal models to conduct efficient, on-demand searches using both images and text in real-world scenarios.
 - [MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/pdf/2506.20670) – 25 Jun 2025 - MMSearch-R1 is an innovative framework that teaches large multimodal models to efficiently conduct on-demand multi-turn searches in real-world contexts by integrating image and text search capabilities.
 - [MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/pdf/2506.20670) – 25 Jun 2025 - MMSearch-R1 is a novel reinforcement learning framework that enhances large multimodal models by enabling them to perfor
