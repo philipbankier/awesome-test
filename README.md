@@ -8,6 +8,7 @@ Curated links for the multimodal AI ecosystem.
 
 ## Papers
 - [MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/pdf/2506.20670) – 02 Jul 2025 - 
+- [MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/pdf/2506.20670) – 02 Jul 2025 - 
 - [](https://arxiv.org/pdf/2506.20670) – 02 Jul 2025 - 
 <!-- 📄 New paper links appear right below this comment. -->
 
