@@ -15,4 +15,5 @@ Curated links for the multimodal AI ecosystem.
 <!-- 📄 New paper links appear right below this comment. -->
 
 ## Announcements
+- [I am unable to generate a summary without the supplied text](https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/) – 02 Jul 2025 - I am unable to generate a summary without the supplied text.
 <!-- 📢 New announcement links appear right below this comment. -->
